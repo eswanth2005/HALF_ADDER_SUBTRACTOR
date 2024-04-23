@@ -58,7 +58,7 @@ Developed by: RegisterNumber:*/
 
 ![image](https://github.com/eswanth2005/HALF_ADDER_SUBTRACTOR/assets/164656722/637c3383-cdd4-49d5-983f-58c678488b51)
 
-**HALF SUBTRACTOR**
+**HALF ADDER**
 ![image](https://github.com/eswanth2005/HALF_ADDER_SUBTRACTOR/assets/164656722/98f07eb1-61b6-4ddb-bdf0-97a4f0f2fcc5)
 
 
