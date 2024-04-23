@@ -56,6 +56,17 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+![image](https://github.com/eswanth2005/HALF_ADDER_SUBTRACTOR/assets/164656722/637c3383-cdd4-49d5-983f-58c678488b51)
+
+**HALF SUBTRACTOR**
+![image](https://github.com/eswanth2005/HALF_ADDER_SUBTRACTOR/assets/164656722/98f07eb1-61b6-4ddb-bdf0-97a4f0f2fcc5)
+
+
 **Output/TIMING Waveform**
+
+![image](https://github.com/eswanth2005/HALF_ADDER_SUBTRACTOR/assets/164656722/8efcb6e5-94f2-4975-8f72-f0a0b6ad9b06)
+
+**HALF SUBTRACTOR** 
+![image](https://github.com/eswanth2005/HALF_ADDER_SUBTRACTOR/assets/164656722/5ea75c8f-ec76-4a93-9461-4043333192db)
 
 **Result:**
