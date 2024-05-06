@@ -1,3 +1,5 @@
+## NAME: ESWANTH KUMAR K
+## REG NO: 212223040046
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
